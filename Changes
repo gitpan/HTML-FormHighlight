@@ -1,0 +1,8 @@
+Revision history for HTML::FormHighlight.
+
+0.01  Wed Jan 19 2001
+        - original version
+
+0.02  Thu Mar 08 2001
+        - added "use Carp" since croak() is called on an error
+
